@@ -1,0 +1,56 @@
+{
+  "N": 1000000,
+  "prime_count": 78498,
+  "gap_count": 78497,
+  "mean_gap": 12.739098,
+  "theoretical_mean_ln_N": 13.815511,
+  "relative_error_percent": 7.7913,
+  "max_gap": 114,
+  "max_gap_after_prime": 492113,
+  "distinct_gap_sizes": 52,
+  "top10_most_common_gaps": [
+    {
+      "gap": 6,
+      "count": 13549
+    },
+    {
+      "gap": 2,
+      "count": 8169
+    },
+    {
+      "gap": 4,
+      "count": 8143
+    },
+    {
+      "gap": 12,
+      "count": 8005
+    },
+    {
+      "gap": 10,
+      "count": 7079
+    },
+    {
+      "gap": 8,
+      "count": 5569
+    },
+    {
+      "gap": 18,
+      "count": 4909
+    },
+    {
+      "gap": 14,
+      "count": 4233
+    },
+    {
+      "gap": 16,
+      "count": 2881
+    },
+    {
+      "gap": 24,
+      "count": 2682
+    }
+  ],
+  "odd_gap_sizes": [
+    1
+  ]
+}
