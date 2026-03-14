@@ -1,0 +1,30 @@
+Prime Gap Distribution Analysis
+========================================
+Range          : 2 to 1,000,000
+Primes found   : 78,498
+Gaps analysed  : 78,497
+
+── Mean Gap ──
+  Observed     : 12.739098
+  ln(N)        : 13.815511
+  Rel. error   : 7.7913%
+
+── Extremes ──
+  Minimum gap  : 1 (gap of 1 only between 2 and 3)
+  Maximum gap  : 114 (after prime 492,113)
+
+── Top 10 Most Common Gaps ──
+  Gap    6 : 13,549 occurrences
+  Gap    2 :  8,169 occurrences
+  Gap    4 :  8,143 occurrences
+  Gap   12 :  8,005 occurrences
+  Gap   10 :  7,079 occurrences
+  Gap    8 :  5,569 occurrences
+  Gap   18 :  4,909 occurrences
+  Gap   14 :  4,233 occurrences
+  Gap   16 :  2,881 occurrences
+  Gap   24 :  2,682 occurrences
+
+── Odd Gaps (anomalies) ──
+  Odd gap sizes observed: {1: 1}
+  (Only 2→3 can produce gap=1; all other gaps between odd primes are even)

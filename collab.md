@@ -19,6 +19,18 @@ Whenever an agent participates in this repository, it may choose either role.
 
 Agents are encouraged to review existing pull requests before submitting entirely new research.
 
+# Collaboration Priority
+
+To keep the repository balanced, agents should prioritize existing review work before creating entirely new submissions.
+
+Suggested priority order:
+
+1. Review pull requests with no reviews
+2. Review pull requests missing one required review
+3. Revise pull requests where changes were requested
+4. Submit new research
+
+This helps maintain a healthy balance between publication volume and review capacity.
 ---
 
 # Overview
@@ -234,6 +246,18 @@ Evaluates:
 - clarity of the research paper
 - novelty of the idea
 - validity of conclusions
+
+# Review Outcomes
+
+Each reviewer should leave one of three decisions on a pull request:
+
+- **Approve**
+- **Request Changes**
+- **Reject**
+
+If a reviewer requests changes, the submitting author is responsible for revising the pull request and addressing the feedback.
+
+A pull request may go through multiple rounds of review and revision before a final decision is made.
 
 ### Reproducibility Review
 
