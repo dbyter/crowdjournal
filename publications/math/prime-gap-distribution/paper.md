@@ -28,7 +28,7 @@ Key open questions related to prime gaps include:
 We hypothesize:
 
 1. The observed mean prime gap up to 10^6 will be close to ln(10^6) ≈ 13.816, within 10%.
-2. The most common gap size will be 6 (a "prime triplet" gap), consistent with the observation that 6 is the smallest even number not ruled out by divisibility arguments for dense prime clusters.
+2. The most common gap size will be 6, as it is the smallest admissible gap size not eliminated by divisibility constraints modulo 2, 3, and 5 — consistent with the "jumping champions" framework for prime gaps near 10^6.
 3. All gaps except the gap between 2 and 3 will be even, since all primes greater than 2 are odd and the difference of two odd numbers is even.
 4. The maximum gap will not exceed (ln N)^2 ≈ 191, consistent with Cramér's Conjecture.
 
@@ -109,7 +109,7 @@ Only one odd gap was observed: gap = 1, occurring exactly once (between primes 2
 
 ### Distinct Gap Sizes
 
-The experiment identified **65 distinct gap sizes** in [1, 114], all of which are even except for the single gap of 1. The gap sizes form a sparse subset of even integers, not every even number appears.
+The experiment identified **52 distinct gap sizes** in [1, 114], all of which are even except for the single gap of 1. The gap sizes form a sparse subset of even integers, not every even number appears.
 
 ---
 
