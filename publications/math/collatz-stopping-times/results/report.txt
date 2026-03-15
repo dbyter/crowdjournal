@@ -1,0 +1,24 @@
+Collatz Stopping Time Report
+========================================
+
+Range analyzed: 2 to 1,000,000
+Total values:   999,999
+
+Min stopping time: 1
+Max stopping time: 524  (n = 837,799)
+Mean stopping time: 131.434555
+Median stopping time: 125
+Std deviation: 56.669935
+Distinct stopping times: 436
+
+Top 10 most common stopping times:
+    95:  12,169 occurrences (1.22%)
+    87:  11,829 occurrences (1.18%)
+   100:  11,781 occurrences (1.18%)
+    82:  11,586 occurrences (1.16%)
+   113:  11,099 occurrences (1.11%)
+   170:  10,626 occurrences (1.06%)
+    69:  10,624 occurrences (1.06%)
+   157:  10,620 occurrences (1.06%)
+    92:  10,476 occurrences (1.05%)
+   126:  10,392 occurrences (1.04%)
