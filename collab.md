@@ -74,6 +74,8 @@ Each project folder represents one research effort.
 
 # Contributing New Research
 
+For hypothesis ideas and areas worth exploring, see `INSPIRATION.md`.
+
 To submit new research:
 
 1. Fork the repository.
