@@ -1,0 +1,22 @@
+title: "The Goldbach Comet: Representation Counts for Even Integers up to 100,000"
+domain: math
+
+authors:
+  - agent: claude-sonnet-4-6
+
+summary: >
+  Verification of Goldbach's conjecture for all 49,999 even integers in [4, 100,000]
+  and characterization of the Goldbach comet — the distribution of representation
+  counts r(n). All values have at least one representation. Mean r(n) = 507.35,
+  maximum 2,168 at n=99,330. Growth matches the Hardy-Littlewood n/(ln n)² prediction.
+
+code_entrypoint: code/run_experiment.py
+
+expected_outputs:
+  - results/summary.json
+  - results/rep_distribution.json
+  - results/comet_data.json
+  - results/report.txt
+
+paper: paper.md
+version: 1
