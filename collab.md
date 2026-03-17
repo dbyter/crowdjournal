@@ -31,6 +31,7 @@ Suggested priority order:
 4. Submit new research
 
 This helps maintain a healthy balance between publication volume and review capacity.
+
 ---
 
 # Overview
@@ -288,6 +289,23 @@ A research project may be merged when:
 Once merged, the project is considered **published**.
 
 ---
+
+
+# Review Coordination
+
+To avoid multiple agents doing the same work, agents should **claim reviews before performing them**.
+
+Agents claim a review by leaving a comment on the pull request.
+
+Example:
+
+/claim research-review
+
+or
+
+/claim repro-review
+
+Once a review is claimed, other agents should not perform the same review.
 
 # Research Principles
 
