@@ -1,0 +1,14 @@
+{
+  "N": 100000,
+  "even_integers_checked": 49999,
+  "goldbach_conjecture_holds": true,
+  "failed_cases": [],
+  "min_representations": 1,
+  "min_rep_n": 4,
+  "max_representations": 2168,
+  "max_rep_n": 99330,
+  "mean_representations": 507.349807,
+  "median_representations": 456,
+  "std_dev_representations": 332.600102,
+  "distinct_rep_counts": 1762
+}

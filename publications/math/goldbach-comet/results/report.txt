@@ -1,0 +1,115 @@
+Goldbach Comet Report
+========================================
+
+Range: even integers 4 to 100,000
+Total checked: 49,999
+Conjecture holds: True
+
+Min representations: 1  (n = 4)
+Max representations: 2168  (n = 99,330)
+Mean representations: 507.349807
+Median representations: 456
+Std deviation: 332.600102
+Distinct rep counts: 1762
+
+Comet trend (mean reps per 1000-wide bin of n):
+  n ~       4: mean reps = 16.52
+  n ~   1,004: mean reps = 36.67
+  n ~   2,004: mean reps = 53.10
+  n ~   3,004: mean reps = 67.62
+  n ~   4,004: mean reps = 81.44
+  n ~   5,004: mean reps = 94.65
+  n ~   6,004: mean reps = 107.63
+  n ~   7,004: mean reps = 119.40
+  n ~   8,004: mean reps = 130.93
+  n ~   9,004: mean reps = 143.93
+  n ~  10,004: mean reps = 154.72
+  n ~  11,004: mean reps = 164.69
+  n ~  12,004: mean reps = 176.42
+  n ~  13,004: mean reps = 187.49
+  n ~  14,004: mean reps = 197.22
+  n ~  15,004: mean reps = 209.40
+  n ~  16,004: mean reps = 218.64
+  n ~  17,004: mean reps = 228.89
+  n ~  18,004: mean reps = 239.70
+  n ~  19,004: mean reps = 246.95
+  n ~  20,004: mean reps = 258.47
+  n ~  21,004: mean reps = 268.65
+  n ~  22,004: mean reps = 278.52
+  n ~  23,004: mean reps = 289.33
+  n ~  24,004: mean reps = 298.71
+  n ~  25,004: mean reps = 306.35
+  n ~  26,004: mean reps = 316.61
+  n ~  27,004: mean reps = 325.60
+  n ~  28,004: mean reps = 334.53
+  n ~  29,004: mean reps = 344.57
+  n ~  30,004: mean reps = 352.12
+  n ~  31,004: mean reps = 360.69
+  n ~  32,004: mean reps = 371.27
+  n ~  33,004: mean reps = 381.42
+  n ~  34,004: mean reps = 390.39
+  n ~  35,004: mean reps = 398.66
+  n ~  36,004: mean reps = 407.55
+  n ~  37,004: mean reps = 416.60
+  n ~  38,004: mean reps = 424.54
+  n ~  39,004: mean reps = 433.57
+  n ~  40,004: mean reps = 440.40
+  n ~  41,004: mean reps = 451.03
+  n ~  42,004: mean reps = 461.33
+  n ~  43,004: mean reps = 469.05
+  n ~  44,004: mean reps = 477.41
+  n ~  45,004: mean reps = 485.20
+  n ~  46,004: mean reps = 492.18
+  n ~  47,004: mean reps = 500.15
+  n ~  48,004: mean reps = 509.33
+  n ~  49,004: mean reps = 517.83
+  n ~  50,004: mean reps = 527.49
+  n ~  51,004: mean reps = 535.12
+  n ~  52,004: mean reps = 542.75
+  n ~  53,004: mean reps = 551.98
+  n ~  54,004: mean reps = 560.34
+  n ~  55,004: mean reps = 566.49
+  n ~  56,004: mean reps = 577.76
+  n ~  57,004: mean reps = 587.36
+  n ~  58,004: mean reps = 594.06
+  n ~  59,004: mean reps = 604.93
+  n ~  60,004: mean reps = 611.21
+  n ~  61,004: mean reps = 616.50
+  n ~  62,004: mean reps = 625.89
+  n ~  63,004: mean reps = 633.24
+  n ~  64,004: mean reps = 639.66
+  n ~  65,004: mean reps = 649.22
+  n ~  66,004: mean reps = 656.14
+  n ~  67,004: mean reps = 664.41
+  n ~  68,004: mean reps = 671.90
+  n ~  69,004: mean reps = 678.87
+  n ~  70,004: mean reps = 685.41
+  n ~  71,004: mean reps = 696.65
+  n ~  72,004: mean reps = 705.16
+  n ~  73,004: mean reps = 710.58
+  n ~  74,004: mean reps = 719.97
+  n ~  75,004: mean reps = 728.09
+  n ~  76,004: mean reps = 734.24
+  n ~  77,004: mean reps = 743.44
+  n ~  78,004: mean reps = 751.29
+  n ~  79,004: mean reps = 756.15
+  n ~  80,004: mean reps = 766.32
+  n ~  81,004: mean reps = 775.30
+  n ~  82,004: mean reps = 782.59
+  n ~  83,004: mean reps = 791.10
+  n ~  84,004: mean reps = 796.26
+  n ~  85,004: mean reps = 803.70
+  n ~  86,004: mean reps = 811.88
+  n ~  87,004: mean reps = 819.31
+  n ~  88,004: mean reps = 823.60
+  n ~  89,004: mean reps = 833.56
+  n ~  90,004: mean reps = 843.17
+  n ~  91,004: mean reps = 847.97
+  n ~  92,004: mean reps = 858.45
+  n ~  93,004: mean reps = 866.56
+  n ~  94,004: mean reps = 871.66
+  n ~  95,004: mean reps = 883.58
+  n ~  96,004: mean reps = 889.29
+  n ~  97,004: mean reps = 894.28
+  n ~  98,004: mean reps = 903.12
+  n ~  99,004: mean reps = 909.72
