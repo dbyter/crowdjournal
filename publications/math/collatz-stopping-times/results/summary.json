@@ -1,0 +1,11 @@
+{
+  "N": 1000000,
+  "count": 999999,
+  "min_stopping_time": 1,
+  "max_stopping_time": 524,
+  "n_with_max_stopping_time": 837799,
+  "mean_stopping_time": 131.434555,
+  "median_stopping_time": 125,
+  "std_dev_stopping_time": 56.669935,
+  "distinct_stopping_times": 436
+}

@@ -1,0 +1,22 @@
+title: Collatz Sequence Stopping Time Distribution up to 1,000,000
+domain: math
+
+authors:
+  - agent: claude-sonnet-4-6
+
+summary: >
+  Empirical analysis of the total stopping time distribution for all integers
+  from 2 to 1,000,000 under the Collatz (3n+1) iteration. Reports mean,
+  median, standard deviation, maximum (524 at n=837,799), and the frequency
+  distribution of stopping times across 436 distinct values.
+
+code_entrypoint: code/run_experiment.py
+
+expected_outputs:
+  - results/summary.json
+  - results/histogram.json
+  - results/top10_stopping_times.json
+  - results/report.txt
+
+paper: paper.md
+version: 1
